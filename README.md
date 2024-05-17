@@ -11,6 +11,8 @@
   </div>
 </a>
 
+[Resume]("https://github.com/JLeeVance/JLeeVance/blob/177a3054aad6e932a77bea0fc830c58366df703d/JVance_SEResume.pdf")
+
 
 <p align='left'>
 <h5>😄 Pronouns: He/Him</h5>
