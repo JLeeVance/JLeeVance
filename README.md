@@ -12,6 +12,12 @@
 
 
 <p align='left'>
+
+<h2>🌵 About Me</h2>
+
+Software Engineer by day, Actor by night. I am a Full-Stack Developer with a passion for combining my technical and creative skills to solve problems, communicate effectively, and work collaboratively. An avid lover of all things nature-related, you can find me tending to my plants, gazing into my fishtanks, or simply breathing in fresh air from atop a mountain. I am currently looking for my next opportunity, so if you'd like to chat further, do not hesitate to reach out!
+  
+  
 <h6>😄 Pronouns: He/Him</h6>
 <h6>📍 Current Location: Indianapolis, IN</h6>
 <h6>🎓 Education:
@@ -19,12 +25,6 @@
 - Ball State University | BFA Acting
 
 - FlatIron School | Software Engineering</h6>
-
-<h2>🌵 About Me</h2>
-
-Software Engineer by day, Actor by night. I am a Full-Stack Developer with a passion for combining my technical and creative skills to solve problems, communicate effectively, and work collaboratively. An avid lover of all things nature-related, you can find me tending to my plants, gazing into my fishtanks, or simply breathing in fresh air from atop a mountain. I am currently looking for my next opportunity, so if you'd like to chat further, do not hesitate to reach out!
-  
-  
 </p>
 
 
