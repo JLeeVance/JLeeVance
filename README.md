@@ -1,4 +1,4 @@
-<h1 align='center'>Jay Vance | Software Engineer - Actor - Entrepreneur<h1>
+<h2 align='center'>Jay Vance | Software Engineer - Actor - Entrepreneur<h2>
 
 😄 Pronouns: He/Him
 
