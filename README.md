@@ -1,7 +1,9 @@
 <img src='https://res.cloudinary.com/deugfjrwa/image/upload/v1715954075/GitHub_ReadME/GitHub_Branding_ixmyr1.jpg' width='100%' height='400vh'  /> 
 
-<h1 align='center' >Jay Vance<h1>
-<h2 align='center'>Software Engineer | Actor | Entrepenuer </h2>
+<header>
+  <h1 align='center' >Jay Vance<h1>
+  <h2 align='center'>Software Engineer | Actor | Entrepenuer </h2>
+</header>
 
 😄 Pronouns: He/Him
 
