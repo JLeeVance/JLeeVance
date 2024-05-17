@@ -5,7 +5,7 @@
 <a href='https://www.linkedin.com/in/justinleevance/'><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' /></a>
 <a href='https://medium.com/@justinleevance94'><img src='https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white' /></a>
 
-<a href='https://github.com/JLeeVance/JLeeVance/blob/177a3054aad6e932a77bea0fc830c58366df703d/JVance_SEResume.pdf' download='JVance_SEResume.pdf'>
+<a download='https://github.com/JLeeVance/JLeeVance/blob/177a3054aad6e932a77bea0fc830c58366df703d/JVance_SEResume.pdf''>
   <div style="background-color: 'green'; color: 'white'; width: '100px'; height: '50px'; display: 'flex'; justify-content: 'center'; align-items: 'center'; border-radius: '5px'">
     Resume
   </div>
