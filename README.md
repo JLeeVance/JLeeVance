@@ -5,6 +5,7 @@
   <h4 align='center'>Software Engineer | Actor | Entrepenuer </h4>
 </div>
 
+<p align='left'>
 😄 Pronouns: He/Him
 
 📍 Current Location: Indianapolis, IN
@@ -14,6 +15,7 @@
   Ball State University | BFA Acting
       
   FlatIron School | Software Engineering
+</p>
 
 
 
