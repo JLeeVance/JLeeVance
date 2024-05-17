@@ -32,7 +32,7 @@ Software Engineer by day, Actor by night. I am a Full-Stack Developer with a pas
 </br>
 <h3>🤓 Current Tech Stack</h3>
 
-<div style='display:flex'>
+<div style='display:flex' align='center'>
   <img src='https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54' />
   <img src='https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E'/>
   <img src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB' />
