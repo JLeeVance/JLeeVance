@@ -1,4 +1,4 @@
-<h1>Oh, Hey There!</h1>
+<h1 align='center' >Oh, Hey There!</h1>
 <img src='https://res.cloudinary.com/deugfjrwa/image/upload/v1715957045/GitHub_ReadME/GitHub_Branding_zoev83.jpg' width='100%' height='400vh'  /> 
 
 [![Resume](https://img.shields.io/badge/Resume-Click_here!-green?style=for-the-badge)](https://drive.google.com/file/d/1F9yhb2pmO7RntsCdj7Rj_gdKMql0EY5_/view?usp=sharing)
