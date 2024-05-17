@@ -11,10 +11,10 @@
 📍 Current Location: Indianapolis, IN
 
 🎓 Education:
-
-  Ball State University | BFA Acting
-      
-  FlatIron School | Software Engineering
+  <ul>
+    <li>Ball State University | BFA Acting</li>
+    <li>FlatIron School | Software Engineering</li>
+  </ul>
 </p>
 
 
