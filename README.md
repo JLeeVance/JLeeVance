@@ -6,9 +6,13 @@
 </div>
 
 😄 Pronouns: He/Him
+
 📍 Current Location: Indianapolis, IN
+
 🎓 Education:
+
       Ball State University | BFA Acting
+      
       FlatIron School | Software Engineering
 
 
