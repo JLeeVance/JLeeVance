@@ -1,3 +1,5 @@
+<img src='https://drive.google.com/file/d/1Tz7-7nFsIGusIyScrmWjB6efbUhzd-wE/view?usp=drive_link'  /> 
+
 <h2 align='center'>Jay Vance | Software Engineer - Actor - Entrepreneur<h2>
 
 😄 Pronouns: He/Him
