@@ -52,9 +52,10 @@ Software Engineer by day, Actor by night. I am a Full-Stack Developer with a pas
 </div>
 
 
-<h6>🌱 I’m currently learning/working on:</h6>
+<h4>🌱 I’m currently learning/working on:
 Portfolio website! 
 C#
+</h4>
 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
