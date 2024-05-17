@@ -15,6 +15,8 @@
 🎓 Education:
 - Ball State University | BFA Acting
 - FlatIron School | Software Engineering
+
+<h3>🌵 About Me</h3>
   
   
 </p>
