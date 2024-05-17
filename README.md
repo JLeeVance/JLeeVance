@@ -11,7 +11,7 @@
   </div>
 </a>
 
-[![Resume](https://img.shields.io/badge/Resume-Click_here!-green?style=for-the-badge)](https://docs.google.com/document/d/1j6ZOEie8W8GyTU0f4WNiN2D2av5_RlrSZKBN_rw8TVQ/edit)
+[![Resume](https://img.shields.io/badge/Resume-Click_here!-green?style=for-the-badge)]('https://drive.google.com/drive/u/0/search?q=type:pdf')
 
 
 <p align='left'>
