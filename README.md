@@ -11,9 +11,9 @@
 
 🎓 Education:
 
-      Ball State University | BFA Acting
+    Ball State University | BFA Acting
       
-      FlatIron School | Software Engineering
+    FlatIron School | Software Engineering
 
 
 
