@@ -1,7 +1,7 @@
 <img src='https://res.cloudinary.com/deugfjrwa/image/upload/v1715954075/GitHub_ReadME/GitHub_Branding_ixmyr1.jpg' width='100%' height='400vh'  /> 
 
 <div>
-  <h3 align='center' >Jay Vance<h3>
+  <h3 align='center' fontSize='50px' >Jay Vance<h3>
   <h4 align='center'>Software Engineer | Actor | Entrepenuer </h4>
 </div>
 
