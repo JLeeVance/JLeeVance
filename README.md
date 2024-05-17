@@ -1,3 +1,5 @@
+<div background='grey'>
+
 <img src='https://res.cloudinary.com/deugfjrwa/image/upload/v1715954075/GitHub_ReadME/GitHub_Branding_ixmyr1.jpg' width='100%' height='400vh'  /> 
 
 <div>
@@ -28,3 +30,6 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+<div>
