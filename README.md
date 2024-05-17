@@ -11,6 +11,8 @@
 
 
 
+
+
 <p align='left'>
 
 <h2>🌵 About Me</h2>
@@ -34,6 +36,9 @@ Software Engineer by day, Actor by night. I am a Full-Stack Developer with a pas
   <img src='https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E'/>
   <img src='https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white'/>
   <img src='https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white'/>
+
+  <img src='https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white' />
+  <img src='https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white' />
 </div>
 
 
