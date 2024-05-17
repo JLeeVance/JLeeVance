@@ -2,7 +2,7 @@
 
 <img src='https://res.cloudinary.com/deugfjrwa/image/upload/v1715957045/GitHub_ReadME/GitHub_Branding_zoev83.jpg' width='100%' height='400vh'  /> 
 
-<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' href='https://www.linkedin.com/in/justinleevance/'/>
+<a href='https://www.linkedin.com/in/justinleevance/'><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' /></a>
 
 
 <p align='left'>
