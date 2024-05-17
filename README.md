@@ -1,4 +1,4 @@
-<img src='https://drive.google.com/file/d/1Tz7-7nFsIGusIyScrmWjB6efbUhzd-wE/view?usp=drive_link'  /> 
+<img src='https://res.cloudinary.com/deugfjrwa/image/upload/v1715954075/GitHub_ReadME/GitHub_Branding_ixmyr1.jpg'  /> 
 
 <h2 align='center'>Jay Vance | Software Engineer - Actor - Entrepreneur<h2>
 
