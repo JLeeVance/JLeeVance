@@ -30,7 +30,7 @@ Software Engineer by day, Actor by night. I am a Full-Stack Developer with a pas
 - FlatIron School | Software Engineering</h6>
 </p>
 </br>
-<h3>🤓 Current Tech Stack</h3>
+<h3 align='center'>🤓 Current Tech Stack</h3>
 
 <div style='display:flex' align='center'>
   <img src='https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54' />
