@@ -7,6 +7,7 @@
 [<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'>](https://www.linkedin.com/in/justinleevance/)
 [<img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white'>](mailto:justinleevance94@gmail.com)
 [<img src='https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white'>](https://medium.com/@justinleevance94)
+[<img src='https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white'>](https://www.instagram.com/jleevance/)
 
 
 
@@ -44,6 +45,7 @@ Software Engineer by day, Actor by night. I am a Full-Stack Developer with a pas
   <img src='https://camo.githubusercontent.com/a59d48a8a3d5fd3df878fe770ead97012f5f53f423b68326b3882c954ec8b75e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f53514c416c6368656d792d4437314630303f7374796c653d666f722d7468652d6261646765266c6f676f3d73716c616c6368656d79266c6f676f436f6c6f723d7768697465' />
   <img src='https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white' />
   <img src='https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white' />
+  <img src='https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white' />
   <img src='https://img.shields.io/badge/Miro-F7C922?style=for-the-badge&logo=Miro&logoColor=050036' />
   
 </div>
