@@ -20,7 +20,7 @@
 
 - FlatIron School | Software Engineering</h6>
 
-<h5>🌵 About Me</h5>
+<h2>🌵 About Me</h2>
   
   
 </p>
