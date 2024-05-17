@@ -12,8 +12,8 @@
 
 
 <p align='left'>
-<h6>😄 Pronouns:</h6> <p>He/Him</p>
-<h6>📍 Current Location:</h6> Indianapolis, IN
+<h6>😄 Pronouns: He/Him</h6>
+<h6>📍 Current Location: Indianapolis, IN</h6>
 <h6>🎓 Education:</h6>
 
 - Ball State University | BFA Acting
