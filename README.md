@@ -1,4 +1,6 @@
-### Jay Vance | Software Engineer, Actor, Entrepreneur
+## Jay Vance | Software Engineer - Actor - Entrepreneur
+
+😄 Pronouns: He/Him
 
 
 
