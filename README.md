@@ -54,14 +54,10 @@ Software Engineer by day, Actor by night. I am a Full-Stack Developer with a pas
 
   - 🌐 Portfolio website! 
   - C#
-
-
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
+</br>
+<h4>💬 Ask me about my Shrimp!</h4>
+<h4>👯 I'm looking for:</h4>
+  - 🤝💪 A strong team to work Full-Time with
+  - 🌈  A diverse environment to grow in
 
 <div>
