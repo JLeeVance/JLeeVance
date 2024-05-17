@@ -55,7 +55,6 @@ Software Engineer by day, Actor by night. I am a Full-Stack Developer with a pas
 
   - 🌐 Portfolio website! 
   - C#
-</br>
 <h4>👯 I'm looking for:</h4>
 
   - 🤝💪 A strong team to work Full-Time with
