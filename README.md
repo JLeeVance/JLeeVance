@@ -28,7 +28,7 @@ Software Engineer by day, Actor by night. I am a Full-Stack Developer with a pas
 </p>
 </br>
 <h3>🤓 Current Tech Stack</h3>
-
+![image]({https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue})
 
 
 - 🔭 I’m currently working on ...
