@@ -50,10 +50,10 @@ Software Engineer by day, Actor by night. I am a Full-Stack Developer with a pas
 </div>
 </br>
 
-<h4>🌱 How I am growing:
+<h4>🌱 How I am growing:</h4>
   🌐 Portfolio website! 
   C#
-</h4>
+
 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
