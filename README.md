@@ -50,13 +50,14 @@ Software Engineer by day, Actor by night. I am a Full-Stack Developer with a pas
 </div>
 </br>
 
+<h4>💬 Ask me about my Shrimp!</h4>
 <h4>🌱 How I am growing:</h4>
 
   - 🌐 Portfolio website! 
   - C#
 </br>
-<h4>💬 Ask me about my Shrimp!</h4>
 <h4>👯 I'm looking for:</h4>
+
   - 🤝💪 A strong team to work Full-Time with
   - 🌈  A diverse environment to grow in
 
