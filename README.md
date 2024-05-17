@@ -2,11 +2,6 @@
 
 <img src='https://res.cloudinary.com/deugfjrwa/image/upload/v1715957045/GitHub_ReadME/GitHub_Branding_zoev83.jpg' width='100%' height='400vh'  /> 
 
-<div>
-  <h3 align='center'>Jay Vance<h3>
-  <h4 align='center'>Software Engineer | Actor | Entrepenuer </h4>
-</div>
-
 <p align='left'>
 <h5>😄 Pronouns: He/Him</h5>
 <h5>📍 Current Location: Indianapolis, IN</h5>
