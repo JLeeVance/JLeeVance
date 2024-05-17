@@ -14,11 +14,11 @@
 <p align='left'>
 <h6>😄 Pronouns: He/Him</h6>
 <h6>📍 Current Location: Indianapolis, IN</h6>
-<h6>🎓 Education:</h6>
+<h6>🎓 Education:
 
 - Ball State University | BFA Acting
 
-- FlatIron School | Software Engineering
+- FlatIron School | Software Engineering</h6>
 
 <h5>🌵 About Me</h5>
   
