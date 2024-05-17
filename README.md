@@ -39,6 +39,8 @@ Software Engineer by day, Actor by night. I am a Full-Stack Developer with a pas
 
   <img src='https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white' />
   <img src='https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white' />
+  <img src='https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white' />
+  
 </div>
 
 
