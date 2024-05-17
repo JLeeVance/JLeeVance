@@ -53,7 +53,7 @@ Software Engineer by day, Actor by night. I am a Full-Stack Developer with a pas
 <h4>💬 Ask me about my Shrimp!</h4>
 <h4>🌱 How I am growing:</h4>
 
-  - 🌐 Portfolio website! 
+  - 🌐 Portfolio website with Next .js and Tailwind CSS 
   - C#
 <h4>👯 I'm looking for:</h4>
 
