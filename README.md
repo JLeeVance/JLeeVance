@@ -26,9 +26,7 @@ Software Engineer by day, Actor by night. I am a Full-Stack Developer with a pas
 
 - FlatIron School | Software Engineering</h6>
 </p>
-
-
-
+</br>
 <h3>🤓 Current Tech Stack</h3>
 
 
