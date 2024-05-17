@@ -8,15 +8,15 @@
 </div>
 
 <p align='left'>
-😄 Pronouns: He/Him
+<h5>😄 Pronouns: He/Him</h5>
 
-📍 Current Location: Indianapolis, IN
+<h5>📍 Current Location: Indianapolis, IN</h5>
 
-🎓 Education:
+<h5>🎓 Education:</h5>
 - Ball State University | BFA Acting
 - FlatIron School | Software Engineering
 
-<h3>🌵 About Me</h3>
+<h5>🌵 About Me</h5>
   
   
 </p>
